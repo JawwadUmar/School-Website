@@ -7,7 +7,7 @@ import AddressLogo from "../assets/address logo.svg"
 const Contact = () => {
   return (
     <div className="w-full bg-[#30475E] h-full text-[#DDDDDD]">
-      <div className="m-auto w-1/2 p-6">
+      <div className="m-auto w-3/4 p-6 text-wrap">
         <h2 className="text-4xl font-bold m-6 text-center">Contact Us</h2>
 
         <div className="flex items-center justify-center p-2">
