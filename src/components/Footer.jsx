@@ -11,7 +11,7 @@ const Footer = () => {
   return (
     <div className='max-w-[1240px] mx-auto py-16 px-4 grid lg:grid-cols-3 gap-8 text-[#222831]'>
       <div>
-        <h1 className='w-full text-3xl font-bold text-[#30475E]'>St Mary School</h1>
+        <h1 className='w-full text-3xl font-bold text-[#30475E]'>St Mary High School</h1>
         <p className='py-4'>Empowering the future generation with education</p>
         <div className='flex justify-between md:w-[75%] my-6'>
             <FaFacebookSquare size={30} />
